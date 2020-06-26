@@ -90,7 +90,6 @@
     "grunt-run": "^0.6.0",
     "jenkins": "^0.20.0",
     "jira-connector": "^2.6.0",
-    "karma-console-reporter": "file:tools/karma-plugins/console-reporter",
     "moment": "^2.18.1",
     "node-resemble-js": "^0.2.0",
     "sloc": "^0.2.0",
